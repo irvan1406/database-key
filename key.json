@@ -12,6 +12,12 @@
       "duration": 30,
       "startDate": "2026-08-04T00:00:00",
       "activated": true
+    },
+    {
+      "buyer": "Irvan",
+      "duration": 99999,
+      "startDate": "2026-08-04T00:00:00",
+      "activated": true
     }
   ]
 }
