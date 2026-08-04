@@ -1,8 +1,14 @@
 {
-  "scriptKey": "IRVANGANTENG",
+  "scriptKey": "ALVANDA",
   "licenses": [
     {
       "buyer": "Nalis",
+      "duration": 30,
+      "startDate": "2026-08-04T00:00:00",
+      "activated": true
+    },
+    {
+      "buyer": "Fadil",
       "duration": 30,
       "startDate": "2026-08-04T00:00:00",
       "activated": true
