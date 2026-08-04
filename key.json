@@ -1,5 +1,6 @@
 {
   "scriptKey": "ALVANDA",
+  "keyMode": "on",
   "licenses": [
     {
       "buyer": "Nalis",
