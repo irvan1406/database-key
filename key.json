@@ -1,6 +1,10 @@
 {
   "scriptKey": "ALVANDA",
   "keyMode": "off_free",
+  "ownerNumbers": [
+    "6287745756269",
+    "6282329799374"
+  ],
   "licenses": [
     {
       "buyer": "Nalis",
@@ -16,7 +20,7 @@
     },
     {
       "buyer": "Irvan",
-      "duration": 999999,
+      "duration": 99999,
       "startDate": "2026-08-04T00:00:00",
       "activated": true
     }
