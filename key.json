@@ -5,24 +5,28 @@
     "6287745756269",
     "6282329799374"
   ],
+  "superAdminBypass": true,
   "licenses": [
     {
       "buyer": "Nalis",
       "duration": 30,
       "startDate": "2026-08-04T00:00:00",
-      "activated": true
+      "activated": true,
+      "devices": ["6281515149930"]
     },
     {
       "buyer": "Fadil",
       "duration": 30,
       "startDate": "2026-08-04T00:00:00",
-      "activated": true
+      "activated": true,
+      "devices": ["6283875684355"]
     },
     {
       "buyer": "Irvan",
       "duration": 99999,
       "startDate": "2026-08-04T00:00:00",
-      "activated": true
+      "activated": true,
+      "devices": ["6287745756269", "6282329799374"]
     }
   ]
 }
